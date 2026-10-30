@@ -83,9 +83,7 @@ Changing the length of the period that is currently running applies immediately.
 - The Cairo font loads from Google Fonts. Without an internet connection the system font is used.
 - Time is measured with timestamps, so the timer stays accurate even if the tab is in the background.
 
-### License
 
-Released under the [MIT License](LICENSE). Add a `LICENSE` file to your repository to use it.
 
 ---
 
@@ -156,8 +154,7 @@ cd <your-repo>
 - خط Cairo يُحمَّل من Google Fonts، وبدون إنترنت يُستخدم خط النظام.
 - الوقت يُقاس بالطوابع الزمنية، فيبقى المؤقت دقيقًا حتى لو كان التبويب في الخلفية.
 
-### الرخصة
 
-مُرخَّص بموجب [رخصة MIT](LICENSE). أضف ملف `LICENSE` إلى مستودعك لاستخدامها.
+
 
 </div>
